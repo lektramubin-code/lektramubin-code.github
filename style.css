@@ -1,0 +1,63 @@
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: bisque;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+th {
+  background-color: brown;
+  color: white;
+  padding: 10px;
+}
+td {
+  padding: 8px;
+  border: 1px solid white;
+}
+tr:hover {
+  background-color: : wheat;
+}
+h1 {
+  color: brown;
+  text-align: center;
+}
+body {
+  font-family: Arial, san-serif;
+  background-color: #fff8ed;
+}
+p {
+  background-color: white;
+  color: #444;
+  Padding: 15px;
+  border-radius: 8px;
+  line-height: 1.6;
+}
+h2 {
+  color: brown;
+}
+form {
+  background-color: bisque;
+  padding: 15px;
+  border-radius: 10px;
+}
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid brown;
+  box-sizing: border-box;
+}
+input [type="submit"] {
+  background-color: brown;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+footer {
+  background-color: brown;
+  color: whitesmoke;
+  text-align: center;
+  padding: 15px;
+  margin-top: 25px;
+  border-radius: 8px;
+}
